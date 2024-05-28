@@ -88,12 +88,12 @@
 }
 
 @mixin serif_regular {
-  @include serif;
+  @include sans;
   font-weight: 400;
 }
 
 @mixin serif_bold {
-  @include serif;
+  @include sans;
   font-weight: 700;
 }
 
