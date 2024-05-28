@@ -1,20 +1,20 @@
 # Degree
-- degree: Bachelor of Electroning Engineering
-  uni: KyungHee University
-  year: 2020 &mdash; 2022
+- degree: 전자공학과
+  uni: 경희대학교
+  year: 03,2020 &mdash; 08,2022
   # awards:
   # - award: Summa Cumme Laude graduate
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: Bachelor's dropout School of Business
-  uni: Gachon University
-  year: 2015 &mdash; 2020
+- degree: 경영학부 중퇴
+  uni: 가천대학교
+  year: 03,2015 &mdash; 02,2020
   # awards:
   # - award: Summa Cumme Laude graduate
   # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: JaeHyeon High School
+# - degree: High School Diploma
+  uni: 재현고등학교
   year: 2015
   # award: Most likely to succeed
   # summary: You can choose to have either a single or multiple awards
