@@ -1,13 +1,21 @@
 # Jobs
 
-# 쌍용강북센터
+# VP of Global Communications
 - company: 쌍용강북센터
-  position: 교육생
+  position: 자바&스프링 기반 AWS 클라우드 융합 개발자 양성과정
   duration: 01, 2023 &mdash; 07, 2023
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Java, Oracle, HTML&CSS, Javascript, jQuery, AJAX, JSP/Servlet, MyBatis, Spring 기술들을 습득하고 팀 프로젝트 2개를 진행했습니다. 웹 구조 흐름에 대해 이해하고, spring mvc 구조로 restful api 개발을 진행했습니다.
+  <ul><li><a href="https://github.com/more0st/yori.git">음식 배달 플랫폼 프로젝트</a></li><li><a href="https://github.com/more0st/MeongNyang.git">애완동물 중고거래 플랫폼 프로젝트 - 팀장</a></li></ul>
+
+  #
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy
 #   duration:  Jun, 2010 &mdash; Sept, 2013
 #   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
+# # Communications Coordinator
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
